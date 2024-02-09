@@ -1,0 +1,6 @@
+print("Digite sua idade")
+age=io.read("*number")
+print("Lendo mentes")
+print("escaneando neurônios")
+print("usando telepatia")
+print("A sua idade é",age," ")
