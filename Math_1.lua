@@ -14,3 +14,9 @@ R2=io.read("*number")
 if R2 == 81 then 
        print("Acertou miseravi")
 end
+if R2 <= 80 then
+       print("ERROU!!")
+end
+if R2 >= 82 then
+       print("ERROU!!")
+end
